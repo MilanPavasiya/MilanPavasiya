@@ -12,6 +12,5 @@
 
 ## 🔗 Connect with me
 
-- [Github](https://github.com/milanpavasiya)
 - [LinkedIn](https://www.linkedin.com/in/milan-pavasiya/)
 - milpavasiya@gmail.com
