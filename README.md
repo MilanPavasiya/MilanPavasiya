@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Milan! 👋
 
-<!--
-**MilanPavasiya/MilanPavasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 I'm a passionate Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:briefcase: I working as an Intermediate Software Developer at Avanti Computer Systems since January 2022.
+
+👨🏻‍💻 Previously, I worked at Getmehired.co for 6 months as a Full Stack Developer and also worked for half-year as a Web Developer and half-year as a Frontend Developer at Volcone Web Solutions, LLC.
+
+:dart: Open for a full-time opportunity as a Full Stack Developer or a Software Developer.
+
+## 🔗 Connect with me
+
+- [Github](https://github.com/milanpavasiya)
+- [LinkedIn](https://www.linkedin.com/in/milan-pavasiya/)
+- milpavasiya@gmail.com
