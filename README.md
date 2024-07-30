@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-💻 I'm a passionate Full Stack Developer.
+💻 I'm a passionate Full Stack Developer. Having 3+ years of professional experience in the IT field.
 
 :briefcase: I have worked as an Intermediate Software Developer at Avanti Computer Systems for 1 year and 10 months.
 
